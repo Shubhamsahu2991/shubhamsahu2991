@@ -1,4 +1,6 @@
 # 💫 About Me:
+# Hello, i'm Shubham sahu
+# <i> The Front-end Developer<i>
 🔭 I’m currently working on frontend projets<br><br>🌱 I’m currently learning front-end technologies and cloud servics<br><br>👯 I’m looking to collaborate on freelancing<br><br>📫 How to reach me shubhamsahu2991@gmail.com<br><br>
 
 
