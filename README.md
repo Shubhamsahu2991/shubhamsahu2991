@@ -1,7 +1,8 @@
-# 💫 About Me:
-# Hello, i'm Shubham sahu
+#  About Me:
+ <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> <h1> Hello, i'm Shubham sahu<h1>
 # <i> The Front-end Developer<i>
 🔭 I’m currently working on frontend projets<br><br>🌱 I’m currently learning front-end technologies and cloud servics<br><br>👯 I’m looking to collaborate on freelancing<br><br>📫 How to reach me shubhamsahu2991@gmail.com<br><br>
+
 
 
 ## 🌐 Socials:
