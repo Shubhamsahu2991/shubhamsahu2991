@@ -1,16 +1,15 @@
 ### Hi there 👋
 
+### Hi 👋, I'm shubham sahu
+### A passionate Full Stack developer from India
 
-Shubhamsahu2991/shubhamsahu2991** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently working on ...Front-end Projects
+- 🌱 I’m currently learning ...Front-end Development and Cloud Services
+- 👯 I’m looking to collaborate on ...Freelancing
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-
-- 💬 Ask me about ...
+- 💬 Ask me about ...Front-end Development
 - 📫 How to reach me: ...
+
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
