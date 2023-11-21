@@ -1,5 +1,5 @@
 # About Me:
-<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> <h1> Hello, i'm Shubham sahu<h1>
+<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> <h1> Hello, I'm Shubham sahu<h1>
 ## <i>Front-end Developer<i>
 ## <i>Creative,flexible<br>and affordable websites.<i>
 
