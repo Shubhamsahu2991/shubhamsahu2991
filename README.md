@@ -3,7 +3,7 @@
 ## <i>Front-end Developer<i>
 ## <i>Creative,flexible<br>and affordable websites.<i>
 
-🔭 I’m currently working on frontend projets<br><br>🌱 I’m currently learning front-end technologies and cloud servics<br><br>👯 I’m looking to collaborate on freelancing<br><br>📫 How to reach me shubhamsahu2991@gmail.com<br><br>
+🔭 I’m currently working on frontend projets<br><br>🌱 I’m currently learning front-end technologies and cloud services<br><br>👯 I’m looking to collaborate on freelancing<br><br>📫 How to reach me shubhamsahu2991@gmail.com<br><br>
 
 
 
